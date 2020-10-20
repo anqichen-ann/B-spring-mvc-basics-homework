@@ -1,5 +1,7 @@
-package com.thoughtworks.capacity.gtb.mvc;
+package com.thoughtworks.capacity.gtb.mvc.Service;
 
+import com.thoughtworks.capacity.gtb.mvc.Exception.UserNotValidException;
+import com.thoughtworks.capacity.gtb.mvc.dto.User;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
